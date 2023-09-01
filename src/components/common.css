@@ -1,0 +1,28 @@
+.layout {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+label {
+    flex: none;
+    width: 80px;
+    font-size: 16px;
+}
+
+select {
+    width: 100px;
+    border: 1px solid #d9d9d9;
+    padding: 4px 2px;
+    border-radius: 6px;
+}
+
+.adm-input {
+    border: 1px solid #d9d9d9;
+    padding: 4px 11px;
+    border-radius: 6px;
+}
+
+.adm-selector-item {
+    border-radius: 6px;
+}
